@@ -1,4 +1,8 @@
 # Tabungan API
+
+### Tested On:
+    python 3.11.5
+
 ### Usage
 
 1. Clone the project repository
