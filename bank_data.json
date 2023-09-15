@@ -1,0 +1,31 @@
+{
+    "data": [
+        {
+            "nama": "sidiq",
+            "nik": "3213191031292008",
+            "no_hp": "082130148901",
+            "no_rekening": "7103805586",
+            "tabungan": 1000000,
+            "mutasi": [
+                {
+                    "nominal": 1000000,
+                    "no_rekening": "7103805586",
+                    "kode_transaksi": "C",
+                    "waktu": "2023-09-15 01:48:49"
+                },
+                {
+                    "nominal": 500000,
+                    "no_rekening": "7103805586",
+                    "kode_transaksi": "C",
+                    "waktu": "2023-09-15 01:49:20"
+                },
+                {
+                    "nominal": 500000,
+                    "no_rekening": "7103805586",
+                    "kode_transaksi": "D",
+                    "waktu": "2023-09-15 01:49:32"
+                }
+            ]
+        }
+    ]
+}
